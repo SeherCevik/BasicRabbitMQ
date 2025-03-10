@@ -1,0 +1,17 @@
+C:\Users\SeherCEVIKSmartPulse\Desktop\Çalışmalarım\BasicRabbitMQ\BasicRabbitMQ\bin\Debug\net8.0\BasicRabbitMQ.exe
+C:\Users\SeherCEVIKSmartPulse\Desktop\Çalışmalarım\BasicRabbitMQ\BasicRabbitMQ\bin\Debug\net8.0\BasicRabbitMQ.deps.json
+C:\Users\SeherCEVIKSmartPulse\Desktop\Çalışmalarım\BasicRabbitMQ\BasicRabbitMQ\bin\Debug\net8.0\BasicRabbitMQ.runtimeconfig.json
+C:\Users\SeherCEVIKSmartPulse\Desktop\Çalışmalarım\BasicRabbitMQ\BasicRabbitMQ\bin\Debug\net8.0\BasicRabbitMQ.dll
+C:\Users\SeherCEVIKSmartPulse\Desktop\Çalışmalarım\BasicRabbitMQ\BasicRabbitMQ\bin\Debug\net8.0\BasicRabbitMQ.pdb
+C:\Users\SeherCEVIKSmartPulse\Desktop\Çalışmalarım\BasicRabbitMQ\BasicRabbitMQ\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\SeherCEVIKSmartPulse\Desktop\Çalışmalarım\BasicRabbitMQ\BasicRabbitMQ\obj\Debug\net8.0\BasicRabbitMQ.csproj.AssemblyReference.cache
+C:\Users\SeherCEVIKSmartPulse\Desktop\Çalışmalarım\BasicRabbitMQ\BasicRabbitMQ\obj\Debug\net8.0\BasicRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SeherCEVIKSmartPulse\Desktop\Çalışmalarım\BasicRabbitMQ\BasicRabbitMQ\obj\Debug\net8.0\BasicRabbitMQ.AssemblyInfoInputs.cache
+C:\Users\SeherCEVIKSmartPulse\Desktop\Çalışmalarım\BasicRabbitMQ\BasicRabbitMQ\obj\Debug\net8.0\BasicRabbitMQ.AssemblyInfo.cs
+C:\Users\SeherCEVIKSmartPulse\Desktop\Çalışmalarım\BasicRabbitMQ\BasicRabbitMQ\obj\Debug\net8.0\BasicRabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\SeherCEVIKSmartPulse\Desktop\Çalışmalarım\BasicRabbitMQ\BasicRabbitMQ\obj\Debug\net8.0\BasicRab.6473F331.Up2Date
+C:\Users\SeherCEVIKSmartPulse\Desktop\Çalışmalarım\BasicRabbitMQ\BasicRabbitMQ\obj\Debug\net8.0\BasicRabbitMQ.dll
+C:\Users\SeherCEVIKSmartPulse\Desktop\Çalışmalarım\BasicRabbitMQ\BasicRabbitMQ\obj\Debug\net8.0\refint\BasicRabbitMQ.dll
+C:\Users\SeherCEVIKSmartPulse\Desktop\Çalışmalarım\BasicRabbitMQ\BasicRabbitMQ\obj\Debug\net8.0\BasicRabbitMQ.pdb
+C:\Users\SeherCEVIKSmartPulse\Desktop\Çalışmalarım\BasicRabbitMQ\BasicRabbitMQ\obj\Debug\net8.0\BasicRabbitMQ.genruntimeconfig.cache
+C:\Users\SeherCEVIKSmartPulse\Desktop\Çalışmalarım\BasicRabbitMQ\BasicRabbitMQ\obj\Debug\net8.0\ref\BasicRabbitMQ.dll
